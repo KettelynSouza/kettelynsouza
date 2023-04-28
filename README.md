@@ -1,6 +1,6 @@
-Olá, eu sou a Kettelyn Souza
+Olá, eu sou Kettelyn Souza,
 
-- Estudante em informática do Instituto Federal de Educação, Ciência e Tecnologia de São Paulo
+- Concluinte do curso de informática do Instituto Federal de Educação, Ciência e Tecnologia de São Paulo.
 
 
 <div align="center">
